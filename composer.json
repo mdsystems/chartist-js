@@ -1,0 +1,8 @@
+{
+    "name": "mdsystems/chartist-js",
+    "description": "Fork of chartist-js - https://github.com/gionkunz/chartist-js",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT/WTFPL"
+}
